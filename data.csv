@@ -1,0 +1,116 @@
+Scientific Name,Adapted to Coarse Textured Soils,Adapted to Medium Textured Soils,Adapted to Fine Textured Soils,Anaerobic Tolerance,CaCO<SUB>3</SUB> Tolerance,Cold Stratification Required,Drought Tolerance,Fertility Requirement,Fire Tolerance,"Frost Free Days, Minimum",Hedge Tolerance,Moisture Use,pH (Minimum),pH (Maximum),"Planting Density per Acre, Minimum","Planting Density per Acre, Maximum",Precipitation (Minimum),Precipitation (Maximum),"Root Depth, Minimum (inches)",Salinity Tolerance,Shade Tolerance,"Temperature, Minimum (°F)",Palatable Human
+Acacia constricta,Yes,Yes,No,None,High,No,High,Low,High,250.0,High,Low,7.0,8.5,300.0,700.0,4.0,20.0,12.0,Medium,Intolerant,-13.0,Yes
+Acacia greggii,Yes,Yes,Yes,None,High,No,High,Low,High,250.0,High,Low,6.5,8.5,300.0,700.0,3.0,20.0,12.0,None,Intolerant,-13.0,Yes
+Acer barbatum,Yes,Yes,No,None,Medium,No,Low,Medium,None,200.0,None,Medium,5.0,6.5,300.0,700.0,40.0,65.0,24.0,None,Tolerant,-18.0,Yes
+Acer macrophyllum,Yes,Yes,Yes,Medium,Low,Yes,Low,Medium,High,140.0,None,Medium,4.8,7.2,300.0,700.0,22.0,260.0,24.0,None,Intermediate,-14.0,Yes
+Acer negundo,Yes,Yes,Yes,Medium,High,Yes,High,Medium,Low,100.0,None,Medium,5.0,7.8,300.0,1200.0,15.0,75.0,40.0,Medium,Tolerant,-46.0,Yes
+Acer rubrum,Yes,Yes,Yes,Medium,High,No,Medium,Medium,Low,80.0,Low,High,4.7,7.3,170.0,1200.0,25.0,80.0,30.0,None,Intermediate,-47.0,Yes
+Acer saccharinum,Yes,Yes,Yes,High,Medium,No,Low,Low,Low,120.0,None,Medium,4.0,7.3,170.0,700.0,20.0,70.0,32.0,Low,Intermediate,-47.0,Yes
+Acer saccharum,Yes,Yes,No,None,Medium,Yes,Medium,Medium,Low,80.0,None,Medium,3.7,7.9,300.0,700.0,22.0,80.0,40.0,None,Tolerant,-47.0,Yes
+Aleurites moluccana,Yes,Yes,Yes,None,Medium,No,Medium,Medium,High,365.0,Medium,Medium,5.5,7.0,200.0,400.0,40.0,200.0,36.0,None,Intermediate,49.0,Yes
+Allium acuminatum,Yes,Yes,No,None,High,Yes,Medium,Low,High,120.0,High,Low,6.0,8.0,4800.0,11000.0,10.0,60.0,6.0,None,Intolerant,-28.0,Yes
+Amelanchier alnifolia,Yes,Yes,Yes,None,High,Yes,Low,Medium,High,100.0,High,Medium,4.8,8.4,700.0,1700.0,12.0,140.0,24.0,Low,Intermediate,-62.0,Yes
+Amelanchier canadensis,Yes,Yes,Yes,Medium,High,Yes,Low,Medium,High,110.0,High,Medium,5.5,7.5,700.0,1800.0,30.0,60.0,20.0,Medium,Intermediate,-33.0,Yes
+Amelanchier utahensis,Yes,Yes,Yes,None,High,No,High,Low,High,110.0,High,Medium,5.6,8.4,700.0,1700.0,12.0,45.0,24.0,None,Intermediate,-28.0,Yes
+Avena sativa,Yes,Yes,Yes,Low,Low,No,Low,Medium,None,90.0,None,Medium,5.3,8.5,,,25.0,100.0,8.0,Medium,Intolerant,-23.0,Yes
+Betula papyrifera,Yes,Yes,Yes,Low,Low,Yes,Low,Medium,High,80.0,Low,High,4.2,7.4,300.0,700.0,12.0,60.0,24.0,Medium,Intolerant,-62.0,Yes
+Brassica juncea,No,Yes,Yes,None,None,No,Low,Medium,None,130.0,None,Medium,6.0,7.2,,,30.0,80.0,6.0,None,Intolerant,17.0,Yes
+Brassica napus,No,Yes,Yes,None,None,No,Low,Medium,None,130.0,None,Medium,6.0,7.2,,,40.0,80.0,6.0,None,Intolerant,17.0,Yes
+Brassica rapa,Yes,Yes,Yes,None,High,No,Low,High,Low,125.0,None,High,5.0,8.0,,,35.0,55.0,12.0,Medium,Intermediate,-13.0,Yes
+Bromelia pinguin,Yes,Yes,Yes,None,Medium,No,Medium,Medium,None,360.0,None,Low,4.5,6.5,640.0,2560.0,33.0,79.0,12.0,Low,Tolerant,28.0,Yes
+Caesalpinia gilliesii,Yes,Yes,No,None,High,No,High,Low,None,320.0,None,Low,7.0,8.5,700.0,2700.0,2.0,10.0,12.0,Low,Intolerant,27.0,Yes
+Carnegia gigantea,Yes,Yes,Yes,None,High,No,High,Low,Low,240.0,Low,Low,7.0,9.0,1700.0,1700.0,2.0,10.0,10.0,Low,Intolerant,15.0,Yes
+Carya illinoinensis,Yes,Yes,Yes,None,Low,Yes,Low,High,Low,180.0,Low,High,4.5,7.5,300.0,700.0,28.0,79.0,32.0,None,Intolerant,-21.0,Yes
+Celtis laevigata var. reticulata,Yes,Yes,No,None,High,Yes,High,Low,Medium,150.0,High,Low,5.9,8.3,50.0,100.0,7.0,55.0,12.0,Low,Intolerant,-42.0,Yes
+Cercis canadensis var. texensis,No,Yes,Yes,None,Low,Yes,High,Low,Medium,180.0,Low,Low,6.0,8.0,100.0,1200.0,16.0,80.0,20.0,Low,Tolerant,-8.0,Yes
+Cibotium chamissoi,No,No,Yes,Low,Medium,No,Low,Medium,Medium,365.0,None,Medium,6.5,7.5,320.0,1280.0,30.0,90.0,12.0,Low,Intermediate,40.0,Yes
+Cibotium glaucum,No,No,Yes,Low,Medium,No,Low,Medium,Medium,365.0,None,Medium,6.5,7.5,320.0,1280.0,30.0,90.0,12.0,None,Intermediate,40.0,Yes
+Coccoloba uvifera,Yes,Yes,Yes,None,Medium,No,High,Low,None,365.0,Medium,Low,5.0,8.0,300.0,700.0,20.0,60.0,60.0,High,Intermediate,17.0,Yes
+Cocos nucifera,Yes,Yes,Yes,Medium,Medium,No,Medium,Low,None,365.0,None,Low,4.0,8.0,150.0,300.0,20.0,80.0,60.0,High,Intolerant,18.0,Yes
+Cordia alliodora,Yes,Yes,Yes,None,Low,No,Low,Low,Medium,365.0,None,High,4.5,7.5,170.0,300.0,30.0,200.0,28.0,None,Intolerant,50.0,Yes
+Cornus mas,Yes,Yes,Yes,None,Medium,Yes,Low,Medium,,130.0,Medium,Medium,5.0,7.5,300.0,1200.0,30.0,50.0,30.0,None,Intermediate,-27.0,Yes
+Crataegus ×anomala,Yes,Yes,Yes,None,Medium,Yes,Medium,Medium,Low,90.0,Medium,Medium,5.7,7.6,1200.0,1700.0,24.0,36.0,24.0,None,Intolerant,-43.0,Yes
+Cucurbita foetidissima,Yes,Yes,Yes,None,High,No,High,Low,High,160.0,High,Low,7.0,8.8,1200.0,1200.0,5.0,41.0,12.0,Low,Intolerant,-20.0,Yes
+Diospyros virginiana,Yes,Yes,Yes,None,None,Yes,Medium,Medium,Medium,200.0,None,Medium,4.7,7.5,300.0,700.0,30.0,80.0,36.0,Low,Tolerant,-21.0,Yes
+Elaeagnus angustifolia,Yes,Yes,No,Low,High,Yes,High,Medium,Low,120.0,High,High,6.0,9.0,300.0,1200.0,12.0,40.0,20.0,High,Intolerant,-25.0,Yes
+Elaeagnus commutata,Yes,Yes,No,None,High,Yes,High,Low,Medium,100.0,Medium,Low,5.0,7.9,1200.0,1700.0,16.0,45.0,18.0,Medium,Intolerant,-38.0,Yes
+Elaeagnus umbellata,Yes,Yes,Yes,None,Medium,Yes,High,Low,Low,150.0,Medium,Medium,5.0,7.5,700.0,2700.0,28.0,45.0,18.0,None,Intolerant,-23.0,Yes
+Epilobium glaberrimum,No,Yes,Yes,None,Medium,No,Low,Low,High,200.0,None,Medium,6.1,7.5,,,12.0,20.0,8.0,None,Tolerant,-8.0,Yes
+Fagopyrum tataricum,Yes,Yes,No,None,Low,No,High,Low,None,155.0,None,Low,4.6,6.5,,,35.0,55.0,8.0,None,Intolerant,42.0,Yes
+Gaultheria shallon,Yes,Yes,Yes,Low,None,Yes,Low,Medium,High,200.0,High,High,5.5,7.0,700.0,11000.0,55.0,125.0,12.0,None,Tolerant,7.0,Yes
+Geum rossii var. turbinatum,Yes,Yes,No,None,,Yes,High,Low,Low,80.0,Medium,Low,4.5,5.6,2700.0,4800.0,10.0,19.0,3.0,None,Intermediate,26.0,Yes
+Glycine max,Yes,Yes,Yes,Low,Low,No,Medium,Low,None,140.0,None,Medium,5.5,7.8,,,16.0,59.0,8.0,Medium,Intolerant,-28.0,Yes
+Hedysarum alpinum,Yes,Yes,No,Low,Low,Yes,Low,Low,Medium,120.0,High,Medium,6.0,8.0,5120.0,20000.0,28.0,80.0,12.0,None,Intolerant,-62.0,Yes
+Helianthus annuus,Yes,Yes,Yes,Low,Medium,No,Medium,Low,None,80.0,None,Medium,5.5,7.8,4800.0,11000.0,12.0,60.0,8.0,Medium,Intolerant,52.0,Yes
+Helianthus grosseserratus,Yes,Yes,Yes,None,Medium,Yes,Medium,Medium,Medium,90.0,None,Medium,5.8,7.3,11000.0,18000.0,20.0,40.0,12.0,None,Intolerant,-43.0,Yes
+Heracleum maximum,Yes,Yes,Yes,Medium,Medium,No,Low,Medium,High,110.0,None,High,5.4,7.3,,,14.0,45.0,12.0,None,Intolerant,-38.0,Yes
+Hordeum vulgare,No,Yes,Yes,None,High,No,Low,Medium,None,200.0,None,Medium,6.5,8.5,,,5.0,24.0,12.0,High,Intolerant,12.0,Yes
+Juglans regia,No,Yes,Yes,None,Medium,Yes,Medium,Medium,Low,190.0,Low,High,6.0,7.5,100.0,800.0,28.0,45.0,40.0,None,Intolerant,-8.0,Yes
+Juniperus monosperma,Yes,Yes,Yes,None,High,No,High,Low,None,180.0,High,Low,7.0,8.5,100.0,800.0,8.0,26.0,12.0,None,Intolerant,-13.0,Yes
+Lycium pallidum,Yes,Yes,No,None,High,No,High,Low,Low,140.0,High,Medium,7.0,8.5,50.0,600.0,10.0,15.0,12.0,Low,Intolerant,-13.0,Yes
+Malus floribunda,No,Yes,Yes,None,Medium,Yes,Medium,Medium,High,130.0,Medium,Medium,5.0,7.8,300.0,1200.0,32.0,60.0,30.0,None,Intolerant,-43.0,Yes
+Malus sylvestris,Yes,Yes,No,None,Low,Yes,Medium,Medium,Low,150.0,Low,Medium,4.8,7.0,170.0,600.0,30.0,50.0,36.0,None,Intolerant,-28.0,Yes
+Medicago polymorpha,No,Yes,Yes,None,None,Yes,None,Medium,None,100.0,None,Medium,5.9,8.2,,,12.0,75.0,12.0,None,Intolerant,32.0,Yes
+Medicago sativa,No,Yes,Yes,None,High,No,High,High,High,90.0,None,High,6.0,8.5,,,12.0,65.0,24.0,Medium,Intolerant,-43.0,Yes
+Morus rubra,Yes,Yes,Yes,Medium,Medium,Yes,Medium,Low,Low,140.0,Low,Medium,5.0,7.0,170.0,600.0,35.0,60.0,24.0,None,Tolerant,-33.0,Yes
+Nyssa ogeche,Yes,Yes,Yes,High,Low,Yes,Low,Medium,Medium,270.0,None,High,4.5,6.5,400.0,800.0,45.0,60.0,24.0,None,Intolerant,-8.0,Yes
+Olneya tesota,Yes,Yes,Yes,None,High,No,High,Low,None,365.0,Medium,Low,6.8,8.6,170.0,300.0,3.0,20.0,12.0,Low,Intolerant,22.0,Yes
+Opuntia ficus-indica,Yes,Yes,Yes,None,High,Yes,High,Low,None,200.0,High,Low,7.0,8.5,20.0,700.0,8.0,15.0,6.0,Low,Intolerant,-3.0,Yes
+Opuntia polyacantha,Yes,Yes,Yes,None,High,No,High,Low,None,200.0,None,Low,7.0,8.8,170.0,300.0,10.0,20.0,12.0,None,Intolerant,-28.0,Yes
+Phytolacca americana,Yes,Yes,Yes,Low,High,No,Medium,Medium,High,100.0,None,Medium,4.7,8.0,,,30.0,65.0,16.0,None,Tolerant,-33.0,Yes
+Pinus edulis,Yes,Yes,Yes,None,Low,Yes,High,Medium,Low,200.0,None,Low,6.5,8.5,170.0,600.0,9.0,27.0,20.0,Medium,Intolerant,-31.0,Yes
+Pinus flexilis,No,Yes,No,None,Medium,Yes,High,Low,Low,90.0,None,Low,5.7,6.5,430.0,1200.0,20.0,70.0,20.0,None,Intolerant,-43.0,Yes
+Pinus sabiniana,Yes,Yes,No,None,Medium,Yes,High,Low,Low,230.0,Low,Low,6.0,8.3,430.0,1200.0,14.0,24.0,40.0,None,Intolerant,12.0,Yes
+Prosopis glandulosa var. glandulosa,Yes,Yes,Yes,Low,High,No,High,Low,High,250.0,High,Low,7.0,8.5,10.0,170.0,5.0,12.0,12.0,Low,Intolerant,-13.0,Yes
+Prosopis pubescens,Yes,Yes,Yes,None,Medium,No,Medium,Low,Medium,200.0,High,Medium,7.5,9.0,50.0,1200.0,6.0,15.0,24.0,High,Intermediate,-3.0,Yes
+Prunus fruticosa,Yes,Yes,No,None,Medium,Yes,Medium,Medium,Low,100.0,Medium,Medium,6.0,7.5,680.0,1200.0,20.0,45.0,24.0,Low,Intolerant,-38.0,Yes
+Prunus ilicifolia ssp. lyonii,Yes,Yes,Yes,Low,Medium,No,High,Low,Low,365.0,High,Medium,7.0,8.0,40.0,400.0,15.0,40.0,12.0,None,Intolerant,32.0,Yes
+Prunus pensylvanica,Yes,Yes,Yes,Low,None,Yes,Low,Low,High,90.0,None,Medium,4.3,7.3,300.0,800.0,16.0,80.0,20.0,None,Intolerant,-38.0,Yes
+Prunus serotina,Yes,Yes,No,None,High,Yes,Medium,Medium,Low,120.0,None,Medium,4.0,7.5,300.0,800.0,21.0,50.0,36.0,Medium,Intolerant,-33.0,Yes
+Prunus virginiana,Yes,Yes,Yes,Medium,High,Yes,Medium,Medium,High,120.0,Low,Medium,5.2,8.4,682.0,2728.0,13.0,65.0,20.0,Medium,Intolerant,-43.0,Yes
+Psidium guajava,Yes,Yes,Yes,Low,Medium,No,Medium,Medium,Medium,365.0,Medium,Medium,5.5,7.0,100.0,400.0,40.0,150.0,36.0,Medium,Intermediate,33.0,Yes
+Punica granatum,No,Yes,Yes,None,None,No,None,Medium,Low,140.0,High,Medium,6.0,6.9,170.0,300.0,30.0,60.0,20.0,Low,Intermediate,-13.0,Yes
+Ribes cereum,Yes,Yes,No,None,High,Yes,High,Low,High,300.0,High,Low,6.5,7.5,300.0,1800.0,13.0,35.0,12.0,None,Intolerant,-23.0,Yes
+Ribes montigenum,Yes,Yes,No,None,Medium,Yes,High,Medium,Medium,120.0,High,Medium,7.0,8.0,600.0,1200.0,10.0,35.0,12.0,None,Intermediate,-3.0,Yes
+Ribes roezlii,Yes,Yes,No,None,Medium,Yes,High,Medium,Medium,160.0,Medium,Low,6.0,7.5,700.0,1700.0,12.0,24.0,16.0,None,Intermediate,-28.0,Yes
+Ribes sanguineum,Yes,Yes,No,None,Medium,Yes,Medium,Medium,Medium,185.0,High,Medium,6.0,7.5,700.0,1700.0,14.0,30.0,16.0,None,Intermediate,7.0,Yes
+Ribes viburnifolium,Yes,Yes,Yes,None,Low,No,High,Low,High,190.0,None,Low,5.0,7.5,1200.0,2700.0,18.0,40.0,12.0,None,Tolerant,-3.0,Yes
+Rosa acicularis,No,Yes,Yes,None,Low,Yes,Low,Low,High,200.0,High,High,6.8,7.5,2000.0,5000.0,15.0,60.0,6.0,None,Tolerant,-38.0,Yes
+Rosa californica,Yes,Yes,Yes,None,None,Yes,Medium,Low,High,270.0,High,High,7.0,8.0,1200.0,3000.0,11.0,40.0,6.0,None,Intermediate,7.0,Yes
+Rosa nutkana,No,Yes,Yes,Low,Low,Yes,Low,Low,High,270.0,High,High,6.5,7.0,2000.0,5000.0,55.0,125.0,6.0,Low,Tolerant,7.0,Yes
+Rubus allegheniensis,No,Yes,Yes,Low,High,Yes,High,Medium,High,120.0,None,Medium,4.6,7.5,1200.0,4800.0,30.0,48.0,12.0,None,Tolerant,-28.0,Yes
+Rubus alumnus,Yes,Yes,Yes,None,Medium,Yes,Medium,Medium,High,140.0,None,Medium,4.8,7.0,1700.0,2700.0,32.0,50.0,8.0,None,Intermediate,-28.0,Yes
+Rubus flagellaris,Yes,Yes,Yes,None,Low,Yes,Low,Low,High,180.0,High,High,5.0,7.0,2700.0,3450.0,15.0,40.0,6.0,None,Intermediate,-23.0,Yes
+Rubus laciniatus,No,Yes,Yes,Low,High,Yes,Low,Medium,High,150.0,None,Medium,5.2,7.7,1200.0,4800.0,32.0,45.0,12.0,None,Tolerant,-33.0,Yes
+Rubus leucodermis,Yes,Yes,Yes,Low,Medium,Yes,Low,Medium,High,120.0,High,Medium,5.6,7.3,1200.0,4800.0,24.0,60.0,12.0,None,Intolerant,7.0,Yes
+Rubus occidentalis,No,Yes,Yes,Low,High,Yes,Medium,Medium,High,129.0,None,Medium,5.2,7.5,1200.0,4800.0,24.0,45.0,12.0,None,Intermediate,-28.0,Yes
+Rubus parviflorus,No,Yes,Yes,Low,High,Yes,Medium,Medium,High,100.0,None,High,4.8,7.2,1200.0,4800.0,20.0,45.0,12.0,None,Intermediate,-28.0,Yes
+Sabal palmetto,Yes,Yes,Yes,Low,Medium,No,Low,Low,Low,180.0,None,Medium,5.1,7.8,300.0,1200.0,30.0,70.0,18.0,Medium,Tolerant,16.0,Yes
+Salix interior,No,No,Yes,Medium,Low,No,Low,Low,Medium,120.0,Low,,4.0,7.8,320.0,640.0,10.0,70.0,36.0,None,Intolerant,-62.0,Yes
+Salix lucida ssp. lasiandra,Yes,No,Yes,High,Low,Yes,Low,Low,Medium,120.0,Low,,6.0,7.0,320.0,640.0,16.0,24.0,36.0,Low,Intolerant,-30.0,Yes
+Salix pulchra,No,Yes,Yes,Medium,,Yes,None,Low,Medium,47.0,Low,,4.4,8.5,320.0,1280.0,4.0,120.0,12.0,None,Intolerant,-62.0,Yes
+Sambucus nigra ssp. canadensis,No,Yes,No,Low,Medium,Yes,Medium,Medium,Medium,100.0,Low,Medium,5.0,8.9,700.0,1700.0,34.0,60.0,16.0,None,Intolerant,-28.0,Yes
+Sambucus nigra ssp. cerulea,Yes,Yes,No,Medium,Medium,Yes,High,Low,Medium,80.0,Low,Low,4.9,7.5,1746.0,3450.0,10.0,60.0,12.0,None,Intermediate,-38.0,Yes
+Sambucus racemosa var. racemosa,No,Yes,Yes,Low,Medium,Yes,Low,High,High,200.0,Low,High,5.2,7.2,300.0,700.0,24.0,60.0,24.0,None,Intermediate,-33.0,Yes
+Secale cereale,Yes,Yes,No,None,Medium,No,Medium,Medium,None,110.0,None,High,4.5,8.2,,,8.0,50.0,8.0,Medium,Intolerant,-33.0,Yes
+Sesbania grandiflora,Yes,Yes,Yes,Low,Medium,No,High,Low,Medium,365.0,Medium,Low,5.5,7.0,400.0,1600.0,30.0,60.0,24.0,Medium,Intermediate,49.0,Yes
+Shepherdia argentea,Yes,Yes,No,None,High,Yes,Medium,Low,Medium,110.0,Medium,Medium,5.3,8.0,300.0,1800.0,15.0,30.0,24.0,High,Intermediate,-38.0,Yes
+Sidalcea neomexicana,No,Yes,Yes,Medium,Medium,No,Low,Medium,Medium,135.0,None,High,6.2,7.8,,,10.0,28.0,12.0,None,Tolerant,-23.0,Yes
+Simmondsia chinensis,Yes,Yes,No,None,High,No,High,Low,High,240.0,High,Low,7.0,8.5,10.0,1200.0,2.0,10.0,12.0,High,Intolerant,-3.0,Yes
+Sorbus decora,No,No,Yes,Low,Low,Yes,Low,Medium,Medium,88.0,Low,Low,4.0,7.0,320.0,1200.0,16.0,51.0,36.0,None,Tolerant,-50.0,Yes
+Sorghum bicolor,Yes,Yes,Yes,None,Low,No,High,High,Low,90.0,None,Medium,5.5,7.5,,,18.0,60.0,12.0,Medium,Intolerant,47.0,Yes
+Sorghum bicolor ssp. bicolor,Yes,Yes,Yes,None,Low,No,High,High,Low,60.0,None,Medium,5.5,7.5,,,18.0,60.0,12.0,Medium,Intolerant,47.0,Yes
+Sorghum bicolor ssp. drummondii,Yes,Yes,Yes,None,Low,No,High,High,None,90.0,None,Low,5.7,6.8,,,17.0,40.0,9.0,Medium,Intolerant,57.0,Yes
+Tamarindus indica,No,Yes,Yes,Low,Medium,No,High,Medium,None,365.0,Medium,Low,4.5,8.0,170.0,300.0,39.0,80.0,60.0,Low,Intolerant,26.0,Yes
+Taraxacum officinale,Yes,Yes,Yes,None,Low,No,Medium,Low,,100.0,None,Medium,4.8,7.5,,,12.0,55.0,6.0,None,Intermediate,-38.0,Yes
+Tragopogon porrifolius,Yes,Yes,Yes,None,High,No,Medium,Medium,Low,110.0,None,Medium,5.2,7.8,,,14.0,55.0,10.0,None,Intermediate,-28.0,Yes
+Triticum aestivum,Yes,Yes,Yes,None,Medium,No,Medium,Medium,None,100.0,None,Low,5.5,8.0,,,10.0,100.0,18.0,Medium,Tolerant,-28.0,Yes
+Umbellularia californica,Yes,Yes,Yes,None,None,No,Low,Medium,Medium,140.0,Medium,High,5.7,7.4,300.0,800.0,13.0,84.0,16.0,None,Tolerant,-13.0,Yes
+Vaccinium caespitosum,Yes,Yes,No,None,None,No,Low,Low,High,100.0,High,High,5.0,7.0,1200.0,19000.0,19.0,69.0,12.0,None,Tolerant,-33.0,Yes
+Vaccinium scoparium,Yes,Yes,No,None,None,Yes,Medium,Low,High,100.0,High,Medium,5.0,7.0,1200.0,19000.0,19.0,69.0,12.0,None,Tolerant,-13.0,Yes
+Viburnum opulus var. americanum,Yes,Yes,Yes,Medium,Low,No,Medium,Medium,Medium,90.0,Medium,High,4.5,6.9,700.0,1100.0,35.0,55.0,14.0,None,Intermediate,-33.0,Yes
+Vicia sativa,No,Yes,Yes,Low,Low,Yes,Low,Medium,None,80.0,None,High,6.0,7.0,5120.0,20000.0,,,12.0,Low,Tolerant,,Yes
+Vigna unguiculata,No,Yes,Yes,None,None,No,None,Medium,None,120.0,None,Medium,6.0,8.0,,,13.0,150.0,6.0,Medium,Intolerant,47.0,Yes
+Vitis palmata,Yes,Yes,No,High,Medium,Yes,Low,Medium,Low,165.0,None,Medium,5.5,7.0,170.0,300.0,32.0,55.0,16.0,None,Intermediate,-13.0,Yes
+Wyethia mollis,Yes,Yes,No,None,Medium,No,High,Low,High,165.0,None,Low,6.5,8.5,,,8.0,16.0,20.0,None,Tolerant,-13.0,Yes
+Zea mays,No,Yes,No,None,Medium,No,Low,High,None,90.0,None,High,5.5,7.5,16000.0,23000.0,20.0,50.0,8.0,Low,Tolerant,32.0,Yes
